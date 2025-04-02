@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: Turtle GM Addon
+## Author: Xerron/Er Modified by K8o
+## Version: 1.0.7
+## Notes: Turtle GM Addon for Turtle SEA
+## SavedVariables: TGM_DATA, TGM_BAN_DATA
+## DefaultState: disabled
+tgm.xml
